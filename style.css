@@ -1,0 +1,15 @@
+.banner{
+    background-color: #33B8FF;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    display: flex;
+}
+.table{
+    background-color: #33D4FF;
+    align-items: center;
+    display: flex;
+    height: 500px;
+    position: absolute;
+}
